@@ -1,6 +1,5 @@
 {
-  "enabled": false,
-  "versions": [],
-  "reason": "",
-  "expire_ts": 0
+  "kill_all": false,
+  "kill_versions": ["1.0", "2.0"],
+  "reason": "版本已停用，请更新"
 }
