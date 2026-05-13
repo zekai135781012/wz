@@ -1,5 +1,5 @@
 {
-  "kill_all": false,
+  "kill_all": true,
   "kill_versions": ["1.0"],
   "reason": "版本已停用，请更新"
 }
